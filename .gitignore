@@ -1,0 +1,13 @@
+# Ignore generated files
+reports/
+*.log
+*.csv
+*.json
+
+# Python cache
+__pycache__/
+python/__pycache__/
+
+# Virtual environments
+venv/
+.env/
